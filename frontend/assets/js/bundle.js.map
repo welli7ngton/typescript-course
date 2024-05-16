@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;;AAAa;AACb;AACA;AACA","sources":["webpack://typescript/./src/webpack/index.ts"],"sourcesContent":["\"use strict\";\nconsole.log('olá mundo');\nconst pleple = 3.1415;\nconsole.log(pleple);\n"],"names":[],"sourceRoot":""}
